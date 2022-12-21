@@ -1,0 +1,1 @@
+error usuario sin transacciones
